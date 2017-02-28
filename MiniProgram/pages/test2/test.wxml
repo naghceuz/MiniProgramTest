@@ -1,3 +1,4 @@
 <!--pages/test2/test.wxml-->
+<include src="template2.wxml"/>
 <text>include page 功能测试</text>
 

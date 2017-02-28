@@ -1,5 +1,5 @@
 <!--pages/test/test.wxml-->
 <text>This is my Mini Program</text>
-
 <button type="default" > default </button>
-<button type="primary" > primary </button>
+<button type="primary" bindtap="primary"> {{btntext}} </button>
+<text>{{text}}</text>

@@ -1,9 +1,6 @@
-// pages/test/test.js
+// pages/test2/test.js
 Page({
-  data:{
-    text:"data binding test",
-    btntext:"测试文本按钮"
-  },
+  data:{},
   onLoad:function(options){
     // 页面初始化 options为页面跳转所带来的参数
   },
@@ -18,9 +15,5 @@ Page({
   },
   onUnload:function(){
     // 页面关闭
-  },
-  btnclick: function(){
-    console.log("btnclick");
-    this.setData({btntext:"按钮已被点击"});
   }
 })

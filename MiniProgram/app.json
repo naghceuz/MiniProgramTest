@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/cotent/cotent",
     "pages/test2/test",
     "pages/test/test",
     "pages/index/index",

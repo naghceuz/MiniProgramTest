@@ -1,0 +1,7 @@
+<!--pages/section1/content1.wxml-->
+<text>课程地址：https://ke.qq.com/webcourse/index.html#course_id=163029&term_id=100188928&taid=809004335004885&vid=l1413r8b459</text>
+<text>教程第二节</text>
+<text>组件使用与数据绑定</text>
+
+<button type="primary" > primary </button>
+<button type="warn" > warn </button>

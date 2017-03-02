@@ -5,3 +5,5 @@
 
 <button type="primary" > primary </button>
 <button type="warn" > warn </button>
+
+<text>{{text}} </text>

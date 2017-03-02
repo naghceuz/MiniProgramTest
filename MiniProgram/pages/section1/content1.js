@@ -1,7 +1,7 @@
 // pages/section1/content1.js
 Page({
   data:{
-    text:"测试ing"
+    text:"测试ing "
   },
   onLoad:function(options){
     // 页面初始化 options为页面跳转所带来的参数
@@ -17,5 +17,9 @@ Page({
   },
   onUnload:function(){
     // 页面关闭
+  },
+  btnclick:function(){
+    this.setData({text:"按钮已被点击"})
   }
+
 })

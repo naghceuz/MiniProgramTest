@@ -4,6 +4,6 @@
 <text>组件使用与数据绑定</text>
 
 <button type="primary" > primary </button>
-<button type="warn" > warn </button>
+<button type="warm" bindtap="btnclick"> warm </button>
 
 <text>{{text}} </text>
